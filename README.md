@@ -44,7 +44,7 @@ WiFi WebServer (ESP8266 WiFi Module)has been used to make it more effective for 
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 [![NodeMCU](https://img.shields.io/badge/-Node%20MCU-red?style=for-the-badge)](https://www.amazon.in/Generic-Nodemcu-Esp8266-Internet-Development/dp/B07262H53W)
-![Web](https://img.shields.io/badge/Wev%20Server-ESP8266-302AE6?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web%20Server-ESP8266-302AE6?style=for-the-badge)
 
 
 
