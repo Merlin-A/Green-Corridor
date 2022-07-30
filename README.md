@@ -3,13 +3,15 @@
 
 
 <h3> Traffic Signal Controller </h3>
-
 <br>
+<p>IoT based Traffic Signals, developed to be implemented in special conditions to manipulate the Traffic Lights during a Green Coridor.</p> 
+
+<br><br>
 
 ## OverView 🔎
 
 <br>
-IoT based Traffic Signals, developed to be implemented in special conditions to manipulate the Traffic Lights during a Green Coridor.
+
 
 
 <br><i>
