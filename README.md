@@ -47,7 +47,7 @@ WiFi WebServer (ESP8266 WiFi Module)has been used to make it more effective for 
 
 
 
-***Related Equipmet***
+***Related Equipments***
 
 
 <ul>
