@@ -3,15 +3,41 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 
-
-
-
 <h2>Green-Corridor  <img src = "https://user-images.githubusercontent.com/78374254/181934274-eae9e279-1624-4e07-a1fa-57e6bae3f8a1.png" height = 35px; width = 35px;</h2> 
-
-
 
 <h3> Traffic Signal Controller </h3>
 <br>
+
+
+
+## Toolset 🛠️
+<i> Languages, Equipments, Environment </i>
+
+<br>
+
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![NodeMCU](https://img.shields.io/badge/-Node%20MCU-red?style=for-the-badge)](https://www.amazon.in/Generic-Nodemcu-Esp8266-Internet-Development/dp/B07262H53W)
+[![Web](https://img.shields.io/badge/Web%20Server-ESP8266-302AE6?style=for-the-badge)](https://randomnerdtutorials.com/esp8266-web-server/)
+
+
+
+
+***Related Equipments***
+
+
+<ul>
+  <li>Node MCU</li>
+  <li>F-F Connector Cables</li>
+  <li>USB Cable Connector</li>
+  <li>LED Traffic Lights</li>
+ 
+</ul>
+  
+  <br>
 
 ## OverView 🔎
 
@@ -43,35 +69,7 @@ WiFi WebServer (ESP8266 WiFi Module)has been used to make it more effective for 
 
 <img src = "https://user-images.githubusercontent.com/78374254/181934565-696a8b58-8659-4902-96b2-e44b006ec83e.jpeg" height = 640px; width = 360px; />
 
-
-## Toolset 🛠️
-<i> Languages, Equipments, Environment </i>
-
 <br>
-
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[![NodeMCU](https://img.shields.io/badge/-Node%20MCU-red?style=for-the-badge)](https://www.amazon.in/Generic-Nodemcu-Esp8266-Internet-Development/dp/B07262H53W)
-[![Web](https://img.shields.io/badge/Web%20Server-ESP8266-302AE6?style=for-the-badge)](https://randomnerdtutorials.com/esp8266-web-server/)
-
-
-
-
-***Related Equipments***
-
-
-<ul>
-  <li>Node MCU</li>
-  <li>F-F Connector Cables</li>
-  <li>USB Cable Connector</li>
-  <li>LED Traffic Lights</li>
- 
-</ul>
-  
-  <br><br>
   
   <center><footer><strong><i>Any Suggestions, Contribution and Forking is Highly Appreciated!!</i></strong></footer></center>
 
