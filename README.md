@@ -3,7 +3,7 @@
 
 <br>
 
-## OverView 🔎>
+## OverView 🔎
 
 <br>
 IoT based Traffic Signals, developed to be implemented in special conditions to manipulate the Traffic Lights during a Green Coridor.
@@ -14,5 +14,13 @@ The <a href = "https://www.donatelife.org.in/green-corridor-system">Green corrid
 In this a special route that is managed in a way that all the traffic signals that come in the route of the hospital where an organ is harvested and the hospital where it is to be transplanted, are green and controlled manually.
 <br>
 </i>
+
+
+<br> 
+<br>
+
+We have created a IoT Based model to expedite the task of manipulating the Traffic Signals during such an Emergency. 
+
+
 
 
