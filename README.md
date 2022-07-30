@@ -6,7 +6,7 @@
 <h2>Green-Corridor  <img src = "https://user-images.githubusercontent.com/78374254/181934274-eae9e279-1624-4e07-a1fa-57e6bae3f8a1.png" height = 35px; width = 35px;</h2> 
 
 <h3> Traffic Signal Controller </h3>
-***Developed By - ***
+<strong>Developed By - </strong>
 <ul>  
   <li> Atharva Kadam </li>
   <li> Sawarmal Kumawat </li>
