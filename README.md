@@ -6,12 +6,13 @@
 <h2>Green-Corridor  <img src = "https://user-images.githubusercontent.com/78374254/181934274-eae9e279-1624-4e07-a1fa-57e6bae3f8a1.png" height = 35px; width = 35px;</h2> 
 
 <h3> Traffic Signal Controller </h3>
-<ul> Developed By: 
+***Developed By - ***
+<ul>  
   <li> Atharva Kadam </li>
   <li> Sawarmal Kumawat </li>
   <li> Makarand Warade </li>
   <li> Sujwal Lambe </li>
-  <li> <a href = "https://www.linkedin.com/in/aditya-ace/" style = "text-decoration: none";>Aditya A </a></li>
+  <li> <a href = "https://www.linkedin.com/in/aditya-ace/">Aditya A </a></li>
 
 
 
