@@ -11,7 +11,7 @@
   <li> Sawarmal Kumawat </li>
   <li> Makarand Warade </li>
   <li> Sujwal Lambe </li>
-  <li> <a href = "https://www.linkedin.com/in/aditya-ace/">Aditya A </a></li>
+  <li> <a href = "https://www.linkedin.com/in/aditya-ace/" style = "text-decoration: none";>Aditya A </a></li>
 
 
 
