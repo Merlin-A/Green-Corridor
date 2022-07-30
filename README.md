@@ -17,8 +17,7 @@ In this a special route that is managed in a way that all the traffic signals th
 
 
 We have created a IoT Based model to expedite the task of manipulating the Traffic Signals during such an Emergency. 
-On Clicking a Button, the program with toggle the lights to Go Green and All the other lights on the intersection to Go Red. 
-<center><img src = "https://user-images.githubusercontent.com/78374254/181928771-3ddb81da-bdbc-482f-a7be-11f578dc7961.png" height = 500px; width = 600px; /></center>
+On Clicking a Button, the program with toggle the lights to Go Green and All the other lights on the intersection to Go Red.
 
 
 
@@ -32,9 +31,19 @@ It has been developed for  a T Intersection, but can easily be modified for any 
 WiFi WebServer (ESP8266 WiFi Module)has been used to make it more effective for real time application. The Traffic Signals can be toggled with a single touch from a Smartphone. 
 
 
+## Toolset 🛠️
+<i> Languages, Equipments, Environment </i>
 
+<br>
 
+**Languages** 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![HTML5](https://img.shields.io/adge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![NodeMCU](https://img.shields.io/badge/-Node%20MCU-red?style=for-the-badge)](https://www.amazon.in/Generic-Nodemcu-Esp8266-Internet-Development/dp/B07262H53W)
 
+![Web](https://img.shields.io/badge/Wev%20Server-ESP8266-302AE6?style=for-the-badge)
 
 
 
