@@ -13,6 +13,9 @@
   <li> Makarand Warade </li>
   <li> Sujwal Lambe </li>
   <li> <a href = "https://www.linkedin.com/in/aditya-ace/">Aditya A </a></li>
+</ul>
+
+<br>
 
 
 
