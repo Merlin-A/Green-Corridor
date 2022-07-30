@@ -22,8 +22,6 @@
 ## Toolset 🛠️
 <i> Languages, Equipments, Environment </i>
 
-<br>
-
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
