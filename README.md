@@ -33,7 +33,7 @@ It has been developed for  a T Intersection, but can easily be modified for any 
 
 WiFi WebServer (ESP8266 WiFi Module)has been used to make it more effective for real time application. The Traffic Signals can be toggled with a single touch from a Smartphone. 
 
-<img src = "https://user-images.githubusercontent.com/78374254/181934565-696a8b58-8659-4902-96b2-e44b006ec83e.jpeg" height = 1280px; width = 720px; />
+<img src = "https://user-images.githubusercontent.com/78374254/181934565-696a8b58-8659-4902-96b2-e44b006ec83e.jpeg" height = 640px; width = 360px; />
 
 
 ## Toolset 🛠️
