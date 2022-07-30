@@ -1,4 +1,5 @@
-<h2>Green-Corridor  <img src = "https://user-images.githubusercontent.com/78374254/181934184-9794261d-cc3f-4a59-899e-53421786ae8d.png" height = 35px; width = 45px;</h2> 
+<h2>Green-Corridor  <img src = "https://user-images.githubusercontent.com/78374254/181934274-eae9e279-1624-4e07-a1fa-57e6bae3f8a1.png" height = 35px; width = 45px;</h2> 
+
 
 
 <h3> Traffic Signal Controller </h3>
