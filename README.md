@@ -62,7 +62,6 @@ WiFi WebServer (ESP8266 WiFi Module)has been used to make it more effective for 
   <li>LED Traffic Lights</li>
  
 </ul>
-
-<hr>
-***Any Suggestions, Contribution and Forking is Highly Appreciated!!***
+  <hr>
+  <footer>Any Suggestions, Contribution and Forking is Highly Appreciated!!</footer>
 
