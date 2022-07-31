@@ -60,7 +60,7 @@ In this a special route that is managed in a way that all the traffic signals th
 
 We have created a IoT Based model to expedite the task of manipulating the Traffic Signals during such an Emergency. 
 
-On Clicking a Button, the program with toggle the lights to Go Green and All the other lights on the intersection to Go Red.
+On Clicking a Button, the program will toggle the lights to Go Green and All the other lights on the intersection to Go Red.
 
 
 
